@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: django-workdays
+Version: 0.0.1
+Summary: workdays is a django-app for manage workdays and goals quarter
+Home-page: https://github.com/rfloriano/workdays
+Author: Rafael Floriano da Silva
+Author-email: rflorianobr@gmail.com
+License: Proprietary
+Description: UNKNOWN
+Keywords: workdays django goals
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Proprietary License
+Classifier: Natural Language :: English
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Operating System :: OS Independent

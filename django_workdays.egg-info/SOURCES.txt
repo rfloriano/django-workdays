@@ -1,0 +1,5 @@
+django_workdays.egg-info/PKG-INFO
+django_workdays.egg-info/SOURCES.txt
+django_workdays.egg-info/dependency_links.txt
+django_workdays.egg-info/requires.txt
+django_workdays.egg-info/top_level.txt
