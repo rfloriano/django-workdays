@@ -1,5 +1,0 @@
-django
-workdays
-
-[tests]
-ipdb
