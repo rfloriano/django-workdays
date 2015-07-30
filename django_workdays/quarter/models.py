@@ -47,6 +47,7 @@ class Goal(models.Model):
     name = models.CharField('name', max_length=100)
     quarter = models.ForeignKey(Quarter)
     is_done = models.BooleanField(default=False)
+    is_cancelled = models.BooleanField(default=False)
 
     class Meta:
         verbose_name = "Goal"
@@ -60,4 +61,5 @@ class Goal(models.Model):
             'name': self.name,
             'quarter': self.quarter.name,
             'is_done': self.is_done,
+            'is_cancelled': self.is_cancelled,
         }
